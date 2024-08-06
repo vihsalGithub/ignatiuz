@@ -1,0 +1,50 @@
+.github-integration {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.github-integration h1 {
+    text-align: center;
+}
+
+#githubUserForm {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#githubUserForm input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#githubUserForm button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#githubUserProfile, #githubUserRepos {
+    margin-top: 20px;
+}
+
+.user-repo {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.user-repo:last-child {
+    border-bottom: none;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
