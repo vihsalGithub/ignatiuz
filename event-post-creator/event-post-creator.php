@@ -3,7 +3,7 @@
 Plugin Name: Event Post Creator :  Ignatiuz
 Description: Creates a post from a form submission.
 Version: 1.0
-Author: Your Name
+Author: Vishal Sharma : sr. webdeveloper
 */
 
 
