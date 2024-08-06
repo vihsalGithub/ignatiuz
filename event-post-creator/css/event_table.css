@@ -1,0 +1,31 @@
+/* Style the events table */
+.events-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.events-table th, .events-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.events-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+.events-table td {
+    vertical-align: middle;
+}
+
+.more-view-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.more-view-link:hover {
+    text-decoration: underline;
+}
